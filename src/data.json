@@ -1,0 +1,34 @@
+{
+    "users":[
+        {
+            "userId": 1,
+            "username": "user1",
+            "password": "Dingo22391",
+            "projects":[
+                {
+                    "projectName": "kalkulacka",
+                    "projectDiscription": "idk proste kalkulacka co cekas more",
+                    "date": "2024-22-05",
+                    "projectImportant":"needs ui",
+                    "projectState":"Done"
+                }
+            ]
+            
+        },
+        {
+            "userId": 2,
+            "username": "user2",
+            "password": "Dingo2511",
+            "projects":[
+                {
+                    "projectName": "Ukolnicek",
+                    "projectDiscription": "idk proste ukolnicek co cekas more",
+                    "date": "2024-26-05",
+                    "projectImportant":"needs to work",
+                    "projectState":"In progress"
+                }
+            ]
+            
+        }
+        
+    ]}
